@@ -1,8 +1,10 @@
 # ECDSA implementation
 
-Practice task № 4 for Distributed Lab Course 2022.
+Practice task № 4 for Distributed Lab Course "Blockchain and decentralized technologies" 2022.
 
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+## 🛠 Tech Stack
 
 
 ## 🛠 Tech Stack
