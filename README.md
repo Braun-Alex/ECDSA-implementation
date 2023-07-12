@@ -6,9 +6,6 @@ Practice task № 4 for Distributed Lab Course "Blockchain and decentralized tec
 
 ## 🛠 Tech Stack
 
-
-## 🛠 Tech Stack
-
 **Application:** Node JS.
 
 **Libraries:** BigInteger JS, JS-SHA3.
